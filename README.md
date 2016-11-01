@@ -1,5 +1,9 @@
 AngularJS Overview
 ==================
+## Slides
+
+See the slides of [AngularJS Overview](https://luixaviles.github.io/angularjs-overview)
+
 ## Prerequisites
 
 * NodeJS - Download and Install [NodeJS](http://http://nodejs.org)
